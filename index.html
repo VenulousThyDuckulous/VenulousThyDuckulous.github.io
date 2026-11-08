@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>VenulousThyDuckulous · pages &amp; repos</title>
+<meta name="description" content="Every live GitHub Pages site and every repository from VenulousThyDuckulous, in one place. Updates itself.">
+<meta name="color-scheme" content="dark">
+<meta property="og:title" content="VenulousThyDuckulous · pages &amp; repos">
+<meta property="og:description" content="Every live GitHub Pages site and every repository, in one place. Updates itself.">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='24' fill='%23f5c451'/%3E%3Ctext x='50' y='70' font-family='system-ui,sans-serif' font-size='58' font-weight='700' text-anchor='middle' fill='%23191307'%3EV%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="./assets/styles.css">
+</head>
+<body>
+<div class="glow" aria-hidden="true"></div>
+
+<header class="hero">
+  <img class="avatar" id="avatar" src="https://avatars.githubusercontent.com/u/317635213?v=4" alt="Avatar of VenulousThyDuckulous" width="88" height="88">
+  <div class="hero__text">
+    <p class="eyebrow">github.com/VenulousThyDuckulous</p>
+    <h1>VenulousThyDuckulous</h1>
+    <p class="lede" id="lede">Everything I've put online — live pages on the left of the slash, the repo behind it on the right. This index keeps itself up to date.</p>
+    <nav class="links" aria-label="Elsewhere">
+      <a href="https://github.com/VenulousThyDuckulous" target="_blank" rel="noopener">GitHub profile</a>
+      <a href="https://github.com/VenulousThyDuckulous/VenulousThyDuckulous.github.io" target="_blank" rel="noopener">Source of this site</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="toolbar" aria-label="Filter the index">
+    <div class="toolbar__row">
+      <input id="search" type="search" autocomplete="off" placeholder="Search names, descriptions, languages…" aria-label="Search pages and repositories">
+      <div class="chips" role="group" aria-label="Show">
+        <button type="button" class="chip is-active" data-filter="all">All</button>
+        <button type="button" class="chip" data-filter="live">Live pages</button>
+        <button type="button" class="chip" data-filter="code">Repo only</button>
+      </div>
+    </div>
+    <p class="count" id="count">Loading…</p>
+  </section>
+
+  <section class="grid" id="grid" aria-label="Pages and repositories"></section>
+
+  <p class="empty" id="empty" hidden>Nothing matches that. <button type="button" class="linkbtn" id="clear">Clear filters</button></p>
+
+  <noscript>
+    <p class="empty">This index needs JavaScript. <a href="https://github.com/VenulousThyDuckulous?tab=repositories">Browse the repositories on GitHub instead.</a></p>
+  </noscript>
+</main>
+
+<footer>
+  <p id="status" aria-live="polite">Loading…</p>
+  <button type="button" class="linkbtn" id="refresh">Refresh now</button>
+  <p class="fineprint">Read straight from the public GitHub API in your browser · snapshot kept fresh by a scheduled Action.</p>
+</footer>
+
+<script type="module" src="./assets/app.js"></script>
+</body>
+</html>

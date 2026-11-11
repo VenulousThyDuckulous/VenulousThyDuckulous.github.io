@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-10T19:48:43.723Z",
+  "generatedAt": "2026-11-11T06:35:37.053Z",
   "login": "VenulousThyDuckulous",
   "repos": [
     {
@@ -9,11 +9,11 @@
       "repoUrl": "https://github.com/VenulousThyDuckulous/arcadia12",
       "pagesUrl": "https://venulousthyduckulous.github.io/arcadia12/",
       "homepage": "",
-      "language": "",
+      "language": "JavaScript",
       "topics": [],
       "stars": 0,
       "forks": 0,
-      "pushedAt": "2026-11-10T18:37:26Z",
+      "pushedAt": "2026-11-10T22:42:26Z",
       "archived": false,
       "fork": false,
       "isRoot": false
@@ -28,10 +28,25 @@
       "topics": [],
       "stars": 0,
       "forks": 0,
-      "pushedAt": "2026-11-10T18:33:25Z",
+      "pushedAt": "2026-11-10T19:48:56Z",
       "archived": false,
       "fork": false,
       "isRoot": false
+    },
+    {
+      "name": "VenulousThyDuckulous.github.io",
+      "description": "Landing page that auto-updates with every live page and repo.",
+      "repoUrl": "https://github.com/VenulousThyDuckulous/VenulousThyDuckulous.github.io",
+      "pagesUrl": "https://venulousthyduckulous.github.io/",
+      "homepage": "https://venulousthyduckulous.github.io",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-11-10T19:48:44Z",
+      "archived": false,
+      "fork": false,
+      "isRoot": true
     },
     {
       "name": "gambitlab",
@@ -62,21 +77,6 @@
       "archived": false,
       "fork": false,
       "isRoot": false
-    },
-    {
-      "name": "VenulousThyDuckulous.github.io",
-      "description": "Landing page that auto-updates with every live page and repo.",
-      "repoUrl": "https://github.com/VenulousThyDuckulous/VenulousThyDuckulous.github.io",
-      "pagesUrl": "https://venulousthyduckulous.github.io/",
-      "homepage": "https://venulousthyduckulous.github.io",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 0,
-      "forks": 0,
-      "pushedAt": "2026-11-10T07:25:57Z",
-      "archived": false,
-      "fork": false,
-      "isRoot": true
     },
     {
       "name": "the-backrooms",

@@ -1,8 +1,23 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-12T07:19:53.764Z",
+  "generatedAt": "2026-11-12T20:00:27.414Z",
   "login": "VenulousThyDuckulous",
   "repos": [
+    {
+      "name": "factory-reset",
+      "description": "FACTORY RESET — a survival-horror game set in an automated factory that has begun recycling its night shift. Vanilla JS, runs on GitHub Pages.",
+      "repoUrl": "https://github.com/VenulousThyDuckulous/factory-reset",
+      "pagesUrl": "https://venulousthyduckulous.github.io/factory-reset/",
+      "homepage": "",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-11-12T13:28:40Z",
+      "archived": false,
+      "fork": false,
+      "isRoot": false
+    },
     {
       "name": "VenulousThyDuckulous.github.io",
       "description": "Landing page that auto-updates with every live page and repo.",
@@ -13,7 +28,7 @@
       "topics": [],
       "stars": 0,
       "forks": 0,
-      "pushedAt": "2026-11-11T19:40:19Z",
+      "pushedAt": "2026-11-12T07:19:54Z",
       "archived": false,
       "fork": false,
       "isRoot": true

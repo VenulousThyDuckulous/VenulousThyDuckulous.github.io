@@ -1,8 +1,38 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-13T19:48:53.217Z",
+  "generatedAt": "2026-11-14T06:34:35.560Z",
   "login": "VenulousThyDuckulous",
   "repos": [
+    {
+      "name": "VenulousThyDuckulous.github.io",
+      "description": "Landing page that auto-updates with every live page and repo.",
+      "repoUrl": "https://github.com/VenulousThyDuckulous/VenulousThyDuckulous.github.io",
+      "pagesUrl": "https://venulousthyduckulous.github.io/",
+      "homepage": "https://venulousthyduckulous.github.io",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-11-13T19:48:54Z",
+      "archived": false,
+      "fork": false,
+      "isRoot": true
+    },
+    {
+      "name": "gcse-arcade",
+      "description": "GCSE revision games: pick a subject, pick a topic, play 30 learning games. React + Vite.",
+      "repoUrl": "https://github.com/VenulousThyDuckulous/gcse-arcade",
+      "pagesUrl": "https://venulousthyduckulous.github.io/gcse-arcade/",
+      "homepage": "",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-11-13T14:36:53Z",
+      "archived": false,
+      "fork": false,
+      "isRoot": false
+    },
     {
       "name": "geometry-dash-web",
       "description": "Geometry Dash in the browser: all 8 gamemodes, GD-accurate physics at 240 TPS. Playable on GitHub Pages.",
@@ -17,21 +47,6 @@
       "archived": false,
       "fork": false,
       "isRoot": false
-    },
-    {
-      "name": "VenulousThyDuckulous.github.io",
-      "description": "Landing page that auto-updates with every live page and repo.",
-      "repoUrl": "https://github.com/VenulousThyDuckulous/VenulousThyDuckulous.github.io",
-      "pagesUrl": "https://venulousthyduckulous.github.io/",
-      "homepage": "https://venulousthyduckulous.github.io",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 0,
-      "forks": 0,
-      "pushedAt": "2026-11-13T06:52:32Z",
-      "archived": false,
-      "fork": false,
-      "isRoot": true
     },
     {
       "name": "factory-reset",
@@ -449,21 +464,6 @@
       "stars": 0,
       "forks": 0,
       "pushedAt": "2026-09-07T17:22:43Z",
-      "archived": false,
-      "fork": false,
-      "isRoot": false
-    },
-    {
-      "name": "gcse-arcade",
-      "description": "GCSE revision games: pick a subject, pick a topic, play 30 learning games. React + Vite.",
-      "repoUrl": "https://github.com/VenulousThyDuckulous/gcse-arcade",
-      "pagesUrl": null,
-      "homepage": "",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 0,
-      "forks": 0,
-      "pushedAt": "2026-11-13T14:36:53Z",
       "archived": false,
       "fork": false,
       "isRoot": false
